@@ -1,3 +1,3 @@
 # hello-world
-my first gitjub projec
+my first gitjub project
 I am here to learn stuff
